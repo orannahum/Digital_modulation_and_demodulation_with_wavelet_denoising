@@ -15,4 +15,4 @@ good luck!
 
 ![4-FSK example](https://user-images.githubusercontent.com/80626713/140925053-ecdf183f-e239-40f5-9cae-e4c0a2637700.jpg)
 
-![image](https://user-images.githubusercontent.com/80626713/140925784-d659473d-e84f-478e-904e-4b0de62e660d.png)
+![image](https://user-images.githubusercontent.com/80626713/140925884-c54bc2ce-a18f-43ea-8348-6eb07c7a120e.png)
